@@ -48,9 +48,10 @@ h1,
 h2 {
   text-align: center;
 }
+
 h3{
   color:#814155;
-font-weight: bold;
+  text-decoration:underline overline;
 }
 .welcome {
   text-align: center;
