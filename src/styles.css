@@ -48,7 +48,10 @@ h1,
 h2 {
   text-align: center;
 }
-
+h3{
+  color:#814155;
+font-weight: bold;
+}
 .welcome {
   text-align: center;
   font-weight: bold;
@@ -74,3 +77,4 @@ footer {
 footer img {
   width: 40px;
 }
+
