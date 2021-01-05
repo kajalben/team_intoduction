@@ -28,13 +28,20 @@ body {
 
 .section {
   width: 100%;
-  border: 1px solid #000;
+  border-radius: 20px;
+  border: 2px solid #814155;
+  box-shadow: 2px 4px 18px 1px rgba(0, 0, 0, 0.5);
+  margin-bottom: 4em;
+  text-align: center;
+  padding: 1em;
 }
 
 .section-image-box {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 h1,
