@@ -50,7 +50,8 @@ h2 {
 }
 
 h3{
-  color:#814155
+  color:#814155;
+  text-decoration:underline overline;
 }
 
 .welcome {
